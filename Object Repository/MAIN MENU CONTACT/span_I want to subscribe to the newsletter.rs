@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_I want to subscribe to the newsletter</name>
+   <tag></tag>
+   <elementGuidId>f1a3d77d-e7ea-4167-b422-c16fc60d6865</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='comp-l53kl1bg']/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.eW1tpy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a3d6a32-b250-4dd8-a979-7275d8d7b121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>36a474f3-6fec-4eba-ab56-37686770a4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eW1tpy</value>
+      <webElementGuid>720f038d-264d-4b94-bc30-fa3a2fde417b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I want to subscribe to the newsletter.</value>
+      <webElementGuid>13f86d02-61c3-4f21-8c67-092ba156c4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-l53kl1bg&quot;)/div[@class=&quot;EBYClk wixui-checkbox__label&quot;]/span[@class=&quot;eW1tpy&quot;]</value>
+      <webElementGuid>dd38aa66-8f23-43a7-93fa-9d3cdd1504d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='comp-l53kl1bg']/div[2]/span</value>
+      <webElementGuid>5aaa481a-4658-4e29-bb21-936087c7bd30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::span[2]</value>
+      <webElementGuid>44e20b97-8d66-4270-879a-48881640dd73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='When do you need the issue/problem fixed by?​'])[1]/following::span[3]</value>
+      <webElementGuid>295f1b58-be2b-4464-a5c6-ed8638b360a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bottom of page'])[1]/preceding::span[2]</value>
+      <webElementGuid>64db3401-43d7-4fdc-b949-f6bfc95de5a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[3]</value>
+      <webElementGuid>92e09b62-c888-4177-8a69-2c3cebcc4cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I want to subscribe to the newsletter.']/parent::*</value>
+      <webElementGuid>94c76baa-ab29-49a2-9dde-4d9e69ae292d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>6485ea3e-2201-431b-adf9-d3279e917125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'I want to subscribe to the newsletter.' or . = 'I want to subscribe to the newsletter.')]</value>
+      <webElementGuid>511e605d-822a-4c27-8828-f6d365803060</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

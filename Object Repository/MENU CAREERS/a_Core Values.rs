@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Core Values</name>
+   <tag></tag>
+   <elementGuidId>1eb0baf3-c280-4741-9ca6-061ec77d5249</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/main/nav/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.nuxt-link-exact-active.nuxt-link-active.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5972c00e-dd9b-4968-b342-609ffc28c332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/#values</value>
+      <webElementGuid>308ed8e3-b579-40a2-b72f-b1da4d15dfdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nuxt-link-exact-active nuxt-link-active active</value>
+      <webElementGuid>f3b2e406-c768-4820-bd7d-209e2243da53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>07ec78c1-ccbc-4bbc-bd21-10f8c34fab25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>0b16f505-ad06-469a-857a-a96d619e2631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Core Values</value>
+      <webElementGuid>1dd6f8a7-4d8e-4f08-8f23-e82561dd6aaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/main[1]/nav[@class=&quot;navbar nav-transparent sticky-top navbar-light navbar-expand-lg scrolled&quot;]/div[@class=&quot;container-xl&quot;]/ul[@class=&quot;navbar-nav ml-auto align-items-center d-none d-lg-flex&quot;]/li[@class=&quot;nav-item active&quot;]/a[@class=&quot;nav-link nuxt-link-exact-active nuxt-link-active active&quot;]</value>
+      <webElementGuid>70a664ae-9879-4b7a-987a-79f9b6bad37c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/main/nav/div/ul/li/a</value>
+      <webElementGuid>1600aabf-aab2-4b5d-baed-1c6e07919d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Core Values')]</value>
+      <webElementGuid>ed2d248a-849f-42c4-bca1-da1d20c77213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Life at Koltiva'])[1]/preceding::a[1]</value>
+      <webElementGuid>ae4662b8-ae87-47a7-88b3-875ecea22c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Us'])[1]/preceding::a[2]</value>
+      <webElementGuid>cd05237c-f348-42ff-a4ec-6212f19644cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Core Values']/parent::*</value>
+      <webElementGuid>dbc8a588-9811-4567-8415-4c8c237864e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/#values')]</value>
+      <webElementGuid>dd3aa397-2fbe-4aea-abc3-72e00aef1dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>37766caf-d45a-42d9-9abe-6069636de107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/#values' and (text() = 'Core Values' or . = 'Core Values')]</value>
+      <webElementGuid>a375de7b-68a7-405b-b157-b4306c829611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

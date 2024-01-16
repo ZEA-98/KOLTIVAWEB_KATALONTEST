@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_COMPANY</name>
+   <tag></tag>
+   <elementGuidId>4e0efb3d-c128-4afa-a448-96bf055432ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-lcm1smik1']/h2/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#comp-lcm1smik1 > h2.font_2.wixui-rich-text__text > span.wixui-rich-text__text > span.wixui-rich-text__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fdedf59c-5d12-4e1e-a7f3-ef4b38341c2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wixui-rich-text__text</value>
+      <webElementGuid>30d7c2d1-be7b-495d-b14c-013e7e679c35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COMPANY</value>
+      <webElementGuid>a6a55953-70d7-442a-bdd3-fd4e3ba599c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-lcm1smik1&quot;)/h2[@class=&quot;font_2 wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]</value>
+      <webElementGuid>7aefd74a-75b7-4069-91ae-798e940e2db9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-lcm1smik1']/h2/span/span</value>
+      <webElementGuid>cccf0f42-d85c-46c0-9960-fe74b1274508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Mission'])[1]/following::span[4]</value>
+      <webElementGuid>2e945ff6-19d5-461e-aba4-1a58b753c524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[1]/following::span[7]</value>
+      <webElementGuid>75e7c8cd-5287-49a1-acc9-76bdfd64d002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLUTIONS'])[1]/preceding::span[1]</value>
+      <webElementGuid>068347a0-4f15-4303-a8a0-5976042cd1b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEGAL'])[1]/preceding::span[5]</value>
+      <webElementGuid>bcc3755d-f9c2-4c03-aae6-5bf8d8a70414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COMPANY']/parent::*</value>
+      <webElementGuid>c485005b-8d68-42ac-943d-69b300fb5433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/h2/span/span</value>
+      <webElementGuid>ed5c1c0a-8df4-4ad1-a715-e50db01e6010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'COMPANY' or . = 'COMPANY')]</value>
+      <webElementGuid>f5b0d898-443b-4971-b699-f0af549525f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

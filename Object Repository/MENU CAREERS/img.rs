@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>17d36de2-0be9-4fe6-9787-6fc0460092f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='lightgallery']/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.column1 > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6a3d3f64-9642-4826-9d8a-212db49ce864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_nuxt/img/galleryPlay_1.e6269b2.jpg</value>
+      <webElementGuid>b3d65a71-c9e4-47e9-90e7-b0ca29e3b079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lightgallery&quot;)/a[@class=&quot;column1&quot;]/img[1]</value>
+      <webElementGuid>8d101288-8ff7-4b8f-ac4a-6b9192c13593</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lightgallery']/a/img</value>
+      <webElementGuid>560d5762-6e6d-44db-b9c2-cc97b2d2b151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/img</value>
+      <webElementGuid>eca0a2d8-724a-40be-9f98-77df779bc32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_nuxt/img/galleryPlay_1.e6269b2.jpg']</value>
+      <webElementGuid>2c7f16eb-9b66-46ab-8e07-2978aa5d097a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

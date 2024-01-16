@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LEGAL</name>
+   <tag></tag>
+   <elementGuidId>c14f8920-d8ca-45f7-8eea-b766fc9a0855</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-lcm1smip']/h2/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#comp-lcm1smip > h2.font_2.wixui-rich-text__text > span.wixui-rich-text__text > span.wixui-rich-text__text > span.wixui-rich-text__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bf03f0ad-8f44-4877-b128-29b64b6185ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wixui-rich-text__text</value>
+      <webElementGuid>eb636d65-e718-4743-b596-46b7f5c47b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LEGAL</value>
+      <webElementGuid>68008175-940d-4ae1-8012-56ea23e52eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-lcm1smip&quot;)/h2[@class=&quot;font_2 wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]</value>
+      <webElementGuid>5e1ac31a-161f-4488-bfeb-52134683147f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-lcm1smip']/h2/span/span/span</value>
+      <webElementGuid>bef7ff0b-790c-4956-9404-f5905e360068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLUTIONS'])[1]/following::span[3]</value>
+      <webElementGuid>cedab22d-380e-49ff-a0ac-777cbd05611c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMPANY'])[1]/following::span[7]</value>
+      <webElementGuid>d91074c9-6274-4efc-9afc-5e8124b71836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOCIAL'])[1]/preceding::span[1]</value>
+      <webElementGuid>8ffc84f2-e58d-4ac9-af48-36eb99aeaf78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[1]/preceding::span[4]</value>
+      <webElementGuid>6efb98b0-2b13-47d3-b8e0-00eac7e261d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LEGAL']/parent::*</value>
+      <webElementGuid>5cf80075-468d-4a67-8f93-a063b95f8fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/h2/span/span/span</value>
+      <webElementGuid>ca0bd297-1c3d-4ce6-a591-c412619a8833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'LEGAL' or . = 'LEGAL')]</value>
+      <webElementGuid>67b6589f-f8ea-4bfa-94b5-28b0f531f9c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

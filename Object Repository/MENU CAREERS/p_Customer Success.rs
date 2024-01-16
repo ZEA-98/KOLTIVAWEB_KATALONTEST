@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Customer Success</name>
+   <tag></tag>
+   <elementGuidId>9a7c4236-e3d5-4024-ad37-d9407e485807</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/main/section[5]/div/div[2]/div/a/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2b57118c-4cf9-44ab-9864-89ee0745f096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>8c7b78b2-fd11-4ee8-8d46-c6264ded7204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Success</value>
+      <webElementGuid>5356ac02-8952-4a42-92e2-de110c773ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/main[1]/section[@class=&quot;jobs&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-lg-4 col-12&quot;]/a[1]/div[@class=&quot;panel&quot;]/div[@class=&quot;text&quot;]/p[@class=&quot;title&quot;]</value>
+      <webElementGuid>8a873001-e5d5-4380-ba13-2f33073030bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/main/section[5]/div/div[2]/div/a/div/div[2]/p</value>
+      <webElementGuid>3d1d9253-3c25-49af-a171-5779f8763dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready to start your journey at Koltiva?'])[1]/following::p[2]</value>
+      <webElementGuid>369cc9fc-d358-4eb7-8cd4-50280748b84b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Meaningful Career Paths and Make Positive Impacts on Our Planet'])[1]/following::p[3]</value>
+      <webElementGuid>48796520-1025-445d-b064-a760c5f850dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW Jobs'])[1]/preceding::p[12]</value>
+      <webElementGuid>69661f2f-698b-4954-b60a-7c7c809a1656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::p[12]</value>
+      <webElementGuid>beec15ae-1286-48b8-aa77-38fcc82f2ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customer Success']/parent::*</value>
+      <webElementGuid>7c30a653-390c-404b-abe9-0dfb545cc9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/p</value>
+      <webElementGuid>919e323f-0b95-4a38-a654-1853c895a938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Customer Success' or . = 'Customer Success')]</value>
+      <webElementGuid>fb1c674d-8199-4d84-8676-b3cc02e14bd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

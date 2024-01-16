@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__lg-prev lg-icon</name>
+   <tag></tag>
+   <elementGuidId>ad08fc7f-fb64-4eaa-b6d4-7011fcf85a1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.lg-prev.lg-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0f00bce4-2382-45f6-ba38-f4b30fbd5400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1fc63e7e-24b1-4e59-92a5-a75870edac7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Previous slide</value>
+      <webElementGuid>965a4e1b-9f9a-4dec-b2bc-b07ace25f409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg-prev lg-icon</value>
+      <webElementGuid>049f7b9f-3fa5-4225-a00e-a10a45a2f634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;lg-on&quot;]/div[@class=&quot;lg-outer lg-start-zoom lg-use-css3 lg-css3 lg-fade lg-grab lg-show-after-load lg-hide-download lg-visible&quot;]/div[@class=&quot;lg&quot;]/div[@class=&quot;lg-actions&quot;]/button[@class=&quot;lg-prev lg-icon&quot;]</value>
+      <webElementGuid>188007db-af7e-43b3-b332-cd34fd5690c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>d0e4370f-3af5-43aa-b0bd-8688f3cd09f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>825f79fe-5565-4c6e-9b73-bc445433b49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>fdc90eaa-c1ce-4ee6-aa3f-864a5d4d9d24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

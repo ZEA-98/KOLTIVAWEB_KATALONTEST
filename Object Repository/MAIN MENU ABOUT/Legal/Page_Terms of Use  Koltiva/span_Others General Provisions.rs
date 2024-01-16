@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Others General Provisions</name>
+   <tag></tag>
+   <elementGuidId>434fc41b-7e0f-439c-850f-f458184507f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-l1z033012']/p[48]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9067ca3e-37aa-4cfe-9b62-316431ea2282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wixui-rich-text__text</value>
+      <webElementGuid>b8ee18ed-f62f-44ab-b739-ef52668366c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Others General Provisions</value>
+      <webElementGuid>28ffc4c9-68d3-4d6a-8894-5ee965e17c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-l1z033012&quot;)/p[@class=&quot;font_8 wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]</value>
+      <webElementGuid>33ff3e5b-a7a4-4733-8e56-27df1f86faa8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-l1z033012']/p[48]/span/span</value>
+      <webElementGuid>d08e3bda-13d6-4ccd-b52d-bd05f8015713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You are responsible for ensuring that you have the right to do so;'])[1]/following::span[5]</value>
+      <webElementGuid>fd5b4198-238c-428b-ba4d-6c9444eaf515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guarantee and Recognition'])[1]/following::span[9]</value>
+      <webElementGuid>6b5c6d41-1adf-44a9-bb58-672d497bd2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You cannot transfer the rights to another person without the written consent of Koltiva.'])[1]/preceding::span[1]</value>
+      <webElementGuid>0a6c6368-3a44-444a-869e-0cfa548f2965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[10]/preceding::span[4]</value>
+      <webElementGuid>602a35a8-24d0-45e2-91a9-1f5f82f3afa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Others General Provisions']/parent::*</value>
+      <webElementGuid>5392fda0-7be5-437b-8b7e-cb654fff4db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[48]/span/span</value>
+      <webElementGuid>475ab16e-9acb-4a58-a1ec-8e5ff24aeaf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Others General Provisions' or . = 'Others General Provisions')]</value>
+      <webElementGuid>3695d46e-e00d-43ca-938c-670728a237be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

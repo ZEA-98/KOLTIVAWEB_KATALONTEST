@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Solutions</name>
+   <tag></tag>
+   <elementGuidId>8712ad79-d9ff-411e-a6a0-4403c639e130</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/main/section[6]/div[2]/div/div/div[3]/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>c1d3455c-d773-4707-8a12-a6dfa81de878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solutions</value>
+      <webElementGuid>60e1ce1c-37c1-477a-babe-3fd4b526e1e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/main[1]/section[@class=&quot;footer-page&quot;]/div[@class=&quot;footer&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-6&quot;]/h6[1]</value>
+      <webElementGuid>c1a60309-664c-4084-bf2b-e6cc8baa0077</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/main/section[6]/div[2]/div/div/div[3]/h6</value>
+      <webElementGuid>b025d445-440d-47cb-9311-98c2d52d2742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::h6[1]</value>
+      <webElementGuid>8ffc5c35-fb8c-48d0-a280-434c0b8539a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::h6[1]</value>
+      <webElementGuid>94f1fcd9-1d82-4fa5-a40f-c7be1e101e7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KoltiPay'])[1]/preceding::h6[1]</value>
+      <webElementGuid>1e576ac7-01e5-4ec9-8b9e-91393b65c9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KoltiTrace'])[1]/preceding::h6[1]</value>
+      <webElementGuid>c8e89191-2e6d-4c0c-8aee-986a1e05e4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solutions']/parent::*</value>
+      <webElementGuid>64b170d0-7b82-4e14-9974-5cbb0f59b3bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/h6</value>
+      <webElementGuid>3c045a5b-b68b-4856-a68b-6da53c51b5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Solutions' or . = 'Solutions')]</value>
+      <webElementGuid>4efed8cc-fbf5-40ac-b7e5-1efbf873274d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

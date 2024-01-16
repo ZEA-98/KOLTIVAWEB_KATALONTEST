@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Scrum Master</name>
+   <tag></tag>
+   <elementGuidId>6deb9689-2a48-4bb6-be23-7bd283edb91c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/main/main/section[2]/div/div/div[2]/div/span[2]/a[8]/div/div/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>624b8bdc-4ae3-42fe-9842-2b59f66f728a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scrum Master</value>
+      <webElementGuid>855801f5-aa4a-44dd-9ce5-cda0d478174b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/main[1]/main[1]/section[@class=&quot;similiar mt-0&quot;]/div[@class=&quot;bg-grey --list-job&quot;]/div[@class=&quot;container-lg&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/span[@class=&quot;d-none d-sm-none d-md-block&quot;]/a[@class=&quot;list-job&quot;]/div[@class=&quot;row bg-list&quot;]/div[@class=&quot;role col-3&quot;]/h6[1]</value>
+      <webElementGuid>3e1245dd-f425-42b6-b8ba-e62b441c8185</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/main/main/section[2]/div/div/div[2]/div/span[2]/a[8]/div/div/h6</value>
+      <webElementGuid>8c78fe4f-27b4-49b5-b9b3-059d8df23c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Operation Officer'])[3]/following::h6[1]</value>
+      <webElementGuid>8fa2a671-a34d-4a17-a5f5-517cf99c71eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senior Agronomy Officer'])[3]/following::h6[2]</value>
+      <webElementGuid>db0affc4-c82a-48d3-9bc0-45bb62646130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Protection Officer'])[3]/preceding::h6[1]</value>
+      <webElementGuid>24fd6b0b-ed54-4f06-bbf4-eda45117f562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Assurance Lead'])[3]/preceding::h6[2]</value>
+      <webElementGuid>3f2fda7f-8cbe-4c54-8d88-1b6617411215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]/div/div/h6</value>
+      <webElementGuid>1607c95d-4706-4d58-9e1c-625b73cd3549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Scrum Master' or . = 'Scrum Master')]</value>
+      <webElementGuid>d1a822bf-3758-4d25-b467-a750a2ef41d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

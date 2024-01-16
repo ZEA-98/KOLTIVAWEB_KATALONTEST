@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Project Implementation</name>
+   <tag></tag>
+   <elementGuidId>47afe025-e95e-4c65-b736-1705a4367e25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/main/section[5]/div/div[2]/div[3]/a/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3235302c-b838-448d-8500-469663d0dd6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>8e455167-9197-4758-becd-448a4ca5f7fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project Implementation </value>
+      <webElementGuid>738c4890-265a-487d-bdba-0ae3c24ea9e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/main[1]/section[@class=&quot;jobs&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-lg-4 col-12&quot;]/a[1]/div[@class=&quot;panel&quot;]/div[@class=&quot;text&quot;]/p[@class=&quot;title&quot;]</value>
+      <webElementGuid>9518cb2d-7126-4380-a999-4b4617fe4c9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/main/section[5]/div/div[2]/div[3]/a/div/div[2]/p</value>
+      <webElementGuid>eb349bd1-3651-4d13-bad3-72037bb6c344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready to start your journey at Koltiva?'])[1]/following::p[6]</value>
+      <webElementGuid>8b28af8c-076c-458a-b8eb-0090b752bdf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Meaningful Career Paths and Make Positive Impacts on Our Planet'])[1]/following::p[7]</value>
+      <webElementGuid>734a6d79-3d0b-4942-9e65-05bffb9a6976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW Jobs'])[1]/preceding::p[8]</value>
+      <webElementGuid>e49a6f93-8990-4d68-81cb-a05d5e501fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::p[8]</value>
+      <webElementGuid>5aa11e1a-da1f-45f3-a544-7f29570acd7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Project Implementation']/parent::*</value>
+      <webElementGuid>c529ec08-4c36-4fca-a58e-28d6bdb5ebca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/div[2]/p</value>
+      <webElementGuid>b7b6f57d-ce43-4542-b6d6-118cb95d8529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Project Implementation ' or . = 'Project Implementation ')]</value>
+      <webElementGuid>75e126b1-e954-49d7-9782-5dcb2245f81d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

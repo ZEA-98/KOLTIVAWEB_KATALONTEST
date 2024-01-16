@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search</name>
+   <tag></tag>
+   <elementGuidId>fbe39404-1ccb-4b3c-a1fd-4f7202840bbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/main/section/div/div/div/div/div[2]/div/div/div/div[3]/div/span/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f0828a8-8f72-4039-87aa-6ff08d0f7c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-search</value>
+      <webElementGuid>09ed8b5e-e481-4b17-9676-9363aa55bb93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Search
+                          </value>
+      <webElementGuid>735c7a66-a5a5-402e-b9b8-160ea2221cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/main[1]/section[@class=&quot;hero&quot;]/div[@class=&quot;gradient&quot;]/div[@class=&quot;centered&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-between&quot;]/div[@class=&quot;mt-3 mt-md-0 col-lg-6 col-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;bg-green&quot;]/div[@class=&quot;px-0 col-12&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-search&quot;]</value>
+      <webElementGuid>fff16c72-8b01-456a-9e22-4abe5ec3558e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/main/section/div/div/div/div/div[2]/div/div/div/div[3]/div/span/button</value>
+      <webElementGuid>7ab03068-98e4-45c5-91a6-3009040b6dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Positions'])[1]/following::button[1]</value>
+      <webElementGuid>8f09a5e6-f701-46ed-b83f-f257e0b18d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/following::button[2]</value>
+      <webElementGuid>72a3f681-0e6f-416d-b492-2d2e7c99b537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All Positions'])[1]/preceding::button[1]</value>
+      <webElementGuid>9e5961b0-54ff-4231-aab4-8bf114d5ba84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>4fb28a2c-4a84-446c-b259-56587235a7fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>1732b220-c85a-43d7-ac9c-bfd56c97526f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Search
+                          ' or . = ' Search
+                          ')]</value>
+      <webElementGuid>8a170ed0-c919-4d14-b134-7496809c7bff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

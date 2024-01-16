@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Terms of Use</name>
+   <tag></tag>
+   <elementGuidId>6d5b92b0-f43f-439c-8cae-67c62118cdc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-lcm1smiv2']/p[3]/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ca515d7-66be-4ef5-a81d-ee2317a115c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wixui-rich-text__text</value>
+      <webElementGuid>d00cca27-3048-4e7b-ac6d-7a745e9b3972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terms of Use</value>
+      <webElementGuid>975605aa-d48a-4bc8-8741-1b217cc86a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-lcm1smiv2&quot;)/p[@class=&quot;font_9 wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]/a[@class=&quot;wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]</value>
+      <webElementGuid>64310290-5fc8-4d86-8f2e-86d89930c0cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-lcm1smiv2']/p[3]/span/a/span</value>
+      <webElementGuid>3153364e-fd58-4b37-9365-c3d977df3682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::span[2]</value>
+      <webElementGuid>b4d5ed2e-9792-4bbf-9b53-2b8d25ca4992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance'])[1]/following::span[4]</value>
+      <webElementGuid>d4aca29a-c1db-445d-b0f3-a20e2d448ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/preceding::span[1]</value>
+      <webElementGuid>5d251228-0bdd-4efe-8edf-a6df99cdfb56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::span[4]</value>
+      <webElementGuid>159bdca5-6b19-4b28-9855-bb1d199a0f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terms of Use']/parent::*</value>
+      <webElementGuid>30a6f8bf-d929-4051-883e-4d6ee81bfdec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/span/a/span</value>
+      <webElementGuid>90997a6c-b1a5-408e-a31c-2fbd29703612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Terms of Use' or . = 'Terms of Use')]</value>
+      <webElementGuid>a005c1c7-ee22-42ec-93f9-298bd0aa7e92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

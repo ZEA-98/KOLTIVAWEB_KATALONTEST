@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Request a Demo</name>
+   <tag></tag>
+   <elementGuidId>6b75fe52-8c9d-426b-ab8f-bf4fa9db4db2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-lclw56iq']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#comp-lclw56iq > a.kuTaGy.wixui-button.zKbzSQ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dcd47992-fddb-488b-8729-8544324ef8e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>linkElement</value>
+      <webElementGuid>e1c31e21-7dec-4c9a-a745-266c654dc0d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.koltiva.com/blog</value>
+      <webElementGuid>06f4987c-b8c2-44c5-99e8-5cb7d73a7fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>be9e935e-0fcd-414e-ae62-a69adb1c131a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kuTaGy wixui-button zKbzSQ</value>
+      <webElementGuid>b97aaa5a-13f4-4b69-aa7a-3166aecbcbd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a4d938a7-10ab-4433-bf75-6b3add44a92d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Request a Demo</value>
+      <webElementGuid>d319b227-db93-4e0d-930c-d7349add1f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-lclw56iq&quot;)/a[@class=&quot;kuTaGy wixui-button zKbzSQ&quot;]</value>
+      <webElementGuid>821e9776-c2df-45b7-b021-9707499c40ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-lclw56iq']/a</value>
+      <webElementGuid>bf22dd5e-e5e7-4d01-93da-aae746b4c19f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request a Demo'])[1]/following::a[1]</value>
+      <webElementGuid>d000fcf8-1f0b-4b1d-be43-9ebb631f25ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::a[2]</value>
+      <webElementGuid>e00bd1c0-3fd0-490b-99ed-e636a1258c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Purpose'])[1]/preceding::a[1]</value>
+      <webElementGuid>95144cba-1558-4ad0-84c8-74d78d8a9009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.koltiva.com/blog')])[3]</value>
+      <webElementGuid>00f54fba-179a-4442-a507-39b375a34837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>6c9ae619-6cbb-45ee-adea-e87c6a33781d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.koltiva.com/blog' and (text() = 'Request a Demo' or . = 'Request a Demo')]</value>
+      <webElementGuid>a4cd10a0-59b5-4ad0-84dc-81205e5969be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

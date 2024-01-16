@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_YouTube</name>
+   <tag></tag>
+   <elementGuidId>3e79b507-4a0f-4aeb-b574-10969c2d2762</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-lcm1smir3']/p[2]/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.wixui-rich-text__text > span.wixui-rich-text__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fb39623b-40d6-4987-97f3-d0567298e996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wixui-rich-text__text</value>
+      <webElementGuid>4fdc0bf9-4e06-4ec1-bf22-b9c5096d2411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YouTube</value>
+      <webElementGuid>3bfbdfa9-9da9-4dff-8dde-6c0eac979dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-lcm1smir3&quot;)/p[@class=&quot;font_9 wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]/a[@class=&quot;wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]</value>
+      <webElementGuid>cb232681-cfba-4af0-b4fc-a8323aab11a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-lcm1smir3']/p[2]/span/a/span</value>
+      <webElementGuid>ef452406-f08b-47e2-9efe-bde7f407efb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[1]/following::span[2]</value>
+      <webElementGuid>184129ce-d554-4015-80aa-77389d582cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOCIAL'])[1]/following::span[4]</value>
+      <webElementGuid>262f6151-4651-4f6c-abb8-ca12e9fb7979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance'])[1]/preceding::span[1]</value>
+      <webElementGuid>50867c38-e169-4bb2-a981-69a9e4e1515d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::span[3]</value>
+      <webElementGuid>d890c3ac-c070-41fa-bee8-a0d77829a384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='YouTube']/parent::*</value>
+      <webElementGuid>0baa3f15-d2c5-4a15-98e1-131304720601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/span</value>
+      <webElementGuid>e5f00943-7f89-40d1-81d4-02db5828fb45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'YouTube' or . = 'YouTube')]</value>
+      <webElementGuid>42e7ba9c-c450-4d12-89db-81b47da50872</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

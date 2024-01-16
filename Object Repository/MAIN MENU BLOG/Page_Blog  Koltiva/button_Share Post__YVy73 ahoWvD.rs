@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Share Post__YVy73 ahoWvD</name>
+   <tag></tag>
+   <elementGuidId>f702241f-3777-447e-8bcc-327f4f1624d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='new-blog-modal-root']/main/div[2]/div/div[2]/span/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._YVy73.ahoWvD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>976059ae-aa8d-41c8-aa34-6b7d6661597d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_YVy73 ahoWvD</value>
+      <webElementGuid>2ccd1d67-8771-4fc4-bea9-17bd651d7aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Share via Facebook</value>
+      <webElementGuid>0e4621e8-247a-479c-bc9e-9b3815ab8462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hook</name>
+      <type>Main</type>
+      <value>share-button__facebook</value>
+      <webElementGuid>544f4f82-ab58-44f9-8764-b795fb09b0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new-blog-modal-root&quot;)/main[@class=&quot;bBBxJk I2dBi2&quot;]/div[@class=&quot;FT5pQN JvTxgP blog-card-background-color&quot;]/div[@class=&quot;qnI9MQ blog-text-color blog-post-title-font&quot;]/div[@class=&quot;yxd80l&quot;]/span[@class=&quot;QrY79E&quot;]/button[@class=&quot;_YVy73 ahoWvD&quot;]</value>
+      <webElementGuid>09c6117c-e349-45e1-981b-6e3d28cc2241</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='new-blog-modal-root']/main/div[2]/div/div[2]/span/button</value>
+      <webElementGuid>83be6cf5-589b-4394-936d-7c555cfb3c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share Post'])[1]/following::button[1]</value>
+      <webElementGuid>b7d8089d-7a4e-43b8-a39f-af61aab57bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book a Demo'])[1]/following::button[2]</value>
+      <webElementGuid>5d8ebfe5-e4f5-43cf-910b-145036fd6280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Posts'])[1]/preceding::button[4]</value>
+      <webElementGuid>35a68a6e-271c-4c79-b805-db35b3d5e1b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community'])[1]/preceding::button[5]</value>
+      <webElementGuid>7ba519f8-c621-4eff-b5e4-e485166c389b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>4b88c4bb-20ae-43ca-9b9a-fb932b3f1c4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

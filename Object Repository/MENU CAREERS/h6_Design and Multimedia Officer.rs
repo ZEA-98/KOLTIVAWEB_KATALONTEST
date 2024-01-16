@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Design and Multimedia Officer</name>
+   <tag></tag>
+   <elementGuidId>cd50c787-9459-4302-8a69-b58d9ab3ab92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/main/main/section[2]/div/div/div[2]/div/span[2]/a[3]/div/div/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>803a7cfc-abb0-42c0-a754-0f74328b9f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Design and Multimedia Officer</value>
+      <webElementGuid>90fccb1a-2549-4022-beb1-66a12f7b7981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/main[1]/main[1]/section[@class=&quot;similiar mt-0&quot;]/div[@class=&quot;bg-grey --list-job&quot;]/div[@class=&quot;container-lg&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/span[@class=&quot;d-none d-sm-none d-md-block&quot;]/a[@class=&quot;list-job&quot;]/div[@class=&quot;row bg-list&quot;]/div[@class=&quot;role col-3&quot;]/h6[1]</value>
+      <webElementGuid>33cc7519-461d-421e-8411-aa89a6335dd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/main/main/section[2]/div/div/div[2]/div/span[2]/a[3]/div/div/h6</value>
+      <webElementGuid>1e3e098c-245f-4ec3-95b4-f2b720eaca08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Marketing Executive'])[3]/following::h6[1]</value>
+      <webElementGuid>a4e06ff0-be48-4677-afa1-a3aa649be045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cluster Leader'])[3]/following::h6[2]</value>
+      <webElementGuid>cf6fb957-20a8-4cb9-861c-e8457b0d675f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UI/UX DESIGNER'])[3]/preceding::h6[1]</value>
+      <webElementGuid>f6acbbcc-87c6-455c-9ae8-fdb22b919f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Head of Trading Operations'])[3]/preceding::h6[2]</value>
+      <webElementGuid>14d0ab5b-29bc-4659-a7c6-1f2ecdf7506d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/div/h6</value>
+      <webElementGuid>be8f5ae5-d3f1-4d7b-879b-3b540bef2bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Design and Multimedia Officer' or . = 'Design and Multimedia Officer')]</value>
+      <webElementGuid>b434b23e-2649-4c47-9daf-3b2e4f816fa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

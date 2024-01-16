@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Business Development</name>
+   <tag></tag>
+   <elementGuidId>460a0c5a-570f-407b-9a39-b27a507f9564</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/main/section[5]/div/div[2]/div[6]/a/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2f87d726-0305-4efb-a9cd-f4d1255ad2e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>31ab36f7-a56e-4aea-b6fa-c50820a3fc53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business Development</value>
+      <webElementGuid>a54ae639-a51e-449c-a2c3-a42573e65ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/main[1]/section[@class=&quot;jobs&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-lg-4 col-12&quot;]/a[1]/div[@class=&quot;panel&quot;]/div[@class=&quot;text&quot;]/p[@class=&quot;title&quot;]</value>
+      <webElementGuid>299936ae-375c-4c16-98be-91bb01646698</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/main/section[5]/div/div[2]/div[6]/a/div/div[2]/p</value>
+      <webElementGuid>1772d544-587b-47e9-9000-2d93d8b17859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready to start your journey at Koltiva?'])[1]/following::p[12]</value>
+      <webElementGuid>0bb8a29a-e6a3-4e6d-9fcd-5429e205bd18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Meaningful Career Paths and Make Positive Impacts on Our Planet'])[1]/following::p[13]</value>
+      <webElementGuid>f1ccc257-eff4-43f0-85ab-65ee8473c817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW Jobs'])[1]/preceding::p[2]</value>
+      <webElementGuid>5c0daf7f-df06-4c32-90e1-49041a589660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::p[2]</value>
+      <webElementGuid>a60b67a2-f16e-4940-b199-6bb82aaa93da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Business Development']/parent::*</value>
+      <webElementGuid>abf5a53a-9444-4538-9169-093735ffd923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a/div/div[2]/p</value>
+      <webElementGuid>b470fae0-93e4-4952-84db-2dfdaedb4579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Business Development' or . = 'Business Development')]</value>
+      <webElementGuid>1cd40666-26a0-44c6-bc36-dcfc172c160d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

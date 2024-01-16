@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All Locations</name>
+   <tag></tag>
+   <elementGuidId>9fff944f-9286-4f24-8d6a-97491c005446</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='__BVID__60__BV_toggle_']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.btn.btn-dropdown-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da25d1c5-c772-40ac-923e-4b6edf0033d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-dropdown-list</value>
+      <webElementGuid>394ac1a3-44ce-4972-9132-668d1d5572c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> All Locations </value>
+      <webElementGuid>ce743adf-9bbf-497c-87b9-0c4086f01065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__60__BV_toggle_&quot;)/span[@class=&quot;btn btn-dropdown-list&quot;]</value>
+      <webElementGuid>f8d6e5ae-ddee-463b-8512-7184d68c1128</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='__BVID__60__BV_toggle_']/span</value>
+      <webElementGuid>e2fb34f8-407b-4f8d-bc2d-f630b2326384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Jobs'])[1]/following::span[1]</value>
+      <webElementGuid>0de5649e-55d8-48e8-9589-0887ab49f68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Your Career in Agritech and Cultivate a Greener Earth​'])[1]/following::span[1]</value>
+      <webElementGuid>8eb59474-be1f-4120-a26c-440a36714944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Positions'])[1]/preceding::span[5]</value>
+      <webElementGuid>8bb3d95a-30c5-4ce5-99ce-59935315d893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/span</value>
+      <webElementGuid>9c9245f3-9a30-47b9-bf0d-e927e7bae9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' All Locations ' or . = ' All Locations ')]</value>
+      <webElementGuid>8c07aa19-eb5d-421c-8909-59dd499e5546</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

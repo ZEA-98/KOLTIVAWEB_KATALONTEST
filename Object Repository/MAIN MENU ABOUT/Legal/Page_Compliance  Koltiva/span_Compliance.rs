@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Compliance</name>
+   <tag></tag>
+   <elementGuidId>be0d2ee3-7f37-458a-b546-e0d49b1835e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-lcm1smiv2']/p/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#comp-lcm1smiv2 > p.font_9.wixui-rich-text__text > span.wixui-rich-text__text > a.wixui-rich-text__text > span.wixui-rich-text__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>46a7fe15-71a6-4832-87ad-4623006cc8da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wixui-rich-text__text</value>
+      <webElementGuid>f849bdb8-8960-41cc-8441-818ea6974e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Compliance</value>
+      <webElementGuid>092c06f4-c71f-4d6e-8840-322b61f361da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-lcm1smiv2&quot;)/p[@class=&quot;font_9 wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]/a[@class=&quot;wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]</value>
+      <webElementGuid>15a1cb63-12f1-46e2-bf64-47b115cf9c15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-lcm1smiv2']/p/span/a/span</value>
+      <webElementGuid>d23fb255-3f7a-4e43-8a3c-fcf15941e0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YouTube'])[1]/following::span[2]</value>
+      <webElementGuid>3beb0a6a-71c2-46ed-81c8-74d393b5612e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[1]/following::span[4]</value>
+      <webElementGuid>c75a4514-30f5-41a0-b3f5-d80b5d4c24d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::span[1]</value>
+      <webElementGuid>05ca388f-b4f1-4000-b807-53ebcc7860ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/preceding::span[3]</value>
+      <webElementGuid>2513d075-0ad6-45e4-be99-804179f86f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Compliance']/parent::*</value>
+      <webElementGuid>d887e102-6e5d-4c29-bdfc-f35a31e24299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/p/span/a/span</value>
+      <webElementGuid>641e7de7-8b32-4cf9-a7ba-447b0eb1fb3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Compliance' or . = 'Compliance')]</value>
+      <webElementGuid>6694ee31-e313-4361-b7a0-c89bd651dc6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

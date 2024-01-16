@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_KoltiSkills</name>
+   <tag></tag>
+   <elementGuidId>14a38318-e022-4f29-bd6d-bd426b5a0bf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-ldyauaqn']/h3/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.font_3.wixui-rich-text__text > span.wixui-rich-text__text > span.wixui-rich-text__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f5b674f-dd5e-429e-8150-1ddf4ff104d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wixui-rich-text__text</value>
+      <webElementGuid>250f73bc-695e-44d2-829f-57113b4b4e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KoltiSkills</value>
+      <webElementGuid>aa2f649b-e45e-43cb-8b9c-f1de75d2f6bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-ldyauaqn&quot;)/h3[@class=&quot;font_3 wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]/span[@class=&quot;wixui-rich-text__text&quot;]</value>
+      <webElementGuid>b785a470-325f-40f7-b744-2b077d803b9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-ldyauaqn']/h3/span/span</value>
+      <webElementGuid>855cd480-36a6-4b30-8b5b-96fcfcb5bd32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talk to an Expert'])[3]/following::span[3]</value>
+      <webElementGuid>ed621ee5-07af-4d92-9b77-73208b77f68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talk to an Expert'])[2]/following::span[5]</value>
+      <webElementGuid>7e8a24ca-85ed-4756-97e8-8a87eb1a0964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talk to an Expert'])[4]/preceding::span[6]</value>
+      <webElementGuid>bebe63b7-65d9-4860-967f-5ce20c15e34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talk to an Expert'])[5]/preceding::span[8]</value>
+      <webElementGuid>3207387d-40cb-4548-b8c6-128b9225edf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/span/span</value>
+      <webElementGuid>e60e6b10-7667-49ce-a500-329c1c8e3080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'KoltiSkills' or . = 'KoltiSkills')]</value>
+      <webElementGuid>a044909b-f1d6-4635-b812-812b0270171f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

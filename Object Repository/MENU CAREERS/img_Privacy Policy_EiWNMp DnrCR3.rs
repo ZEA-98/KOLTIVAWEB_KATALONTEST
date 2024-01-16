@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Privacy Policy_EiWNMp DnrCR3</name>
+   <tag></tag>
+   <elementGuidId>90f91465-f9df-4c56-bc92-0f6b512d4bb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Close']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.EiWNMp.DnrCR3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6366114e-c627-490e-8a51-2c4735c83318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>EiWNMp DnrCR3</value>
+      <webElementGuid>91901511-a8f1-4bb4-af08-76f7295b19c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>e93f6c28-2d3a-403a-bf1a-4933df09c0d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Zz48Zz48Zz48cGF0aCBmaWxsPSIiIGlkPSJjbG9zZS1zdmctcGF0aCIgZD0iTTE3LjI5NCA2bC43MDYuNzA2TDEyLjcwNSAxMiAxOCAxNy4yOTRsLS43MDYuNzA2TDEyIDEyLjcwNSA2LjcwNiAxOCA2IDE3LjI5NCAxMS4yOTUgMTIgNiA2LjcwNiA2LjcwNiA2IDEyIDExLjI5NSAxNy4yOTQgNnoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00NzEuMDAwMDAwLCAtNjQ2LjAwMDAwMCkgdHJhbnNsYXRlKDQ3MS4wMDAwMDAsIDY0Ni4wMDAwMDApIi8+PC9nPjwvZz48L2c+PC9zdmc+</value>
+      <webElementGuid>0e7e98fd-3801-4212-befd-64d4d91bc397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;consent-banner-root MNUFxS gWuMIp jUcJ2u&quot;]/div[@class=&quot;consent-banner-root-container KKix4K&quot;]/span[@class=&quot;consent-banner-close-button-container eYOUW7&quot;]/button[@class=&quot;A9d5ZY&quot;]/img[@class=&quot;EiWNMp DnrCR3&quot;]</value>
+      <webElementGuid>ba0a4458-a5c6-4886-bf93-177370d7c06c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Close']</value>
+      <webElementGuid>6d83585b-8c58-45e2-9710-91cd6de0d432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>32a14e8d-e83d-48b6-831b-bc4b99ed4764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Close' and @src = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Zz48Zz48Zz48cGF0aCBmaWxsPSIiIGlkPSJjbG9zZS1zdmctcGF0aCIgZD0iTTE3LjI5NCA2bC43MDYuNzA2TDEyLjcwNSAxMiAxOCAxNy4yOTRsLS43MDYuNzA2TDEyIDEyLjcwNSA2LjcwNiAxOCA2IDE3LjI5NCAxMS4yOTUgMTIgNiA2LjcwNiA2LjcwNiA2IDEyIDExLjI5NSAxNy4yOTQgNnoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00NzEuMDAwMDAwLCAtNjQ2LjAwMDAwMCkgdHJhbnNsYXRlKDQ3MS4wMDAwMDAsIDY0Ni4wMDAwMDApIi8+PC9nPjwvZz48L2c+PC9zdmc+']</value>
+      <webElementGuid>deac5294-6d2c-4d3a-9f1d-34000d30620e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

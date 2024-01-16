@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply now</name>
+   <tag></tag>
+   <elementGuidId>0eae4952-fef3-4fb2-ae01-21f84beb0f31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn.btn-background-green.mr-2.btn-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ec66b313-b9b5-4f46-ac91-50aa273e557a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>55d7d26f-415c-4467-ac5d-cb20db3d835d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn btn-background-green mr-2 btn-link</value>
+      <webElementGuid>731f05e9-6825-467c-9c70-5cced42b1b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply now</value>
+      <webElementGuid>5a5f1a99-a26b-48ea-91b3-562e79e6c564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/main[1]/main[1]/section[@class=&quot;requirement&quot;]/div[@class=&quot;container-lg&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;btn btn btn-background-green mr-2 btn-link&quot;]</value>
+      <webElementGuid>7b9b33de-edb4-44a5-9a31-d309461d0400</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>61e7e707-fabd-4b07-84aa-ffce9da50c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/main/main/section[2]/div/div/div[8]/button</value>
+      <webElementGuid>ad616f5a-9be6-4b6d-b773-ad1b78e2a13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick apply'])[1]/following::button[1]</value>
+      <webElementGuid>2a62598b-d9c7-455a-bfcf-f32cda3b9b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What we offer'])[1]/following::button[1]</value>
+      <webElementGuid>c3ea4913-26eb-4fb0-aad0-50cc9a32b4e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share this job'])[1]/preceding::button[1]</value>
+      <webElementGuid>a5e53e6c-8e71-45c8-91b6-94f42eb59e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Similar Jobs (2)'])[1]/preceding::button[2]</value>
+      <webElementGuid>ae9fec9f-fa7f-4b27-9d67-05e32cdb0375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply now']/parent::*</value>
+      <webElementGuid>f9cd9ce5-2fb3-4ae3-9e8c-32e10e73639f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/button</value>
+      <webElementGuid>de866eb7-4a52-4ed8-9e55-39655acd89aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Apply now' or . = 'Apply now')]</value>
+      <webElementGuid>4c94c8ef-7d46-4847-a93c-424987035f60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
